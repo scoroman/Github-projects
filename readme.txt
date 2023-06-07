@@ -1,0 +1,1 @@
+Open the pdf files of the dashboards to see what the dashboards look like in github as static previews
